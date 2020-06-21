@@ -1,0 +1,15 @@
+{
+  "name": "betterworks-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.createpost.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bharath",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0",
+    "protractor": "^7.0.0"
+  }
+}
